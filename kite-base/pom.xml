@@ -155,11 +155,11 @@
 		<resources>
 			<resource>
 				<directory>src/main/webapp</directory>
-				<targetPath>${project.build.directory}/${project.artifactId}-${project.version}/WEB-INF/</targetPath>
+				<targetPath>${project.build.directory}/${project.artifactId}-${project.version}</targetPath>
 			</resource>
 			<resource>
 				<directory>src/main/resources</directory>
-				<targetPath>${project.build.directory}/${project.artifactId}-${project.version}/WEB-INF/</targetPath>
+				<targetPath>${project.build.directory}/${project.artifactId}-${project.version}</targetPath>
 			</resource>
 		</resources>
 	</build>
