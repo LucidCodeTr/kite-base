@@ -68,7 +68,7 @@
 	<properties>
 
 		<!-- Versions -->
-		<kiteFrameworkVersion>1.0.0-SNAPSHOT</kiteFrameworkVersion>
+		<kiteFrameworkVersion>1.0.4</kiteFrameworkVersion>
 		<jettyPluginVersion>6.1.10</jettyPluginVersion>
 
 		<!-- Encoding -->
