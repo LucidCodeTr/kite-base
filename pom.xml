@@ -9,7 +9,7 @@
 
 	<groupId>tr.com.lucidcode</groupId>
 	<artifactId>kite-base</artifactId>
-	<version>1.0.4-SNAPSHOT</version>
+	<version>1.0.4</version>
 	<packaging>pom</packaging>
 
 	<name>Kite Framework Base</name>
